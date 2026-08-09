@@ -1,16 +1,39 @@
-## Hi there 👋
+# Deep Mistry
 
-<!--
-**deep-mistry10/deep-mistry10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Founder of QIFY · Developer · Builder · Creator**
 
-Here are some ideas to get you started:
+I'm Deep Mistry, the founder and creator of **QIFY**.
+I build software, web applications, developer tools,
+desktop applications and embedded systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  QIFY
+
+**QIFY** is an independent software project focused on
+building fast, simple and useful web tools and applications.
+
+**Founder:** Deep Mistry
+
+ **QIFY:** https://qify.site/  
+ **Founder Profile:** https://deep.qify.site/
+
+##  What I Build
+
+- Web applications
+- Developer tools
+- Desktop applications
+- Python tools
+- Embedded systems
+- ESP32 projects
+- Electronics and robotics
+- PDF and productivity tools
+
+##  Technologies
+
+Python · C++ · JavaScript · Kotlin · HTML · CSS · Arduino · ESP32
+
+##  Links
+
+-  [Personal Website](https://deep.qify.site/)
+-  [QIFY](https://qify.site/)
+-  [LinkedIn](https://www.linkedin.com/in/deep-mistry-founder-of-qify/)
+-  [GitHub](https://github.com/deep-mistry10)
