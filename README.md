@@ -31,6 +31,13 @@ building fast, simple and useful web tools and applications.
 
 Python · C++ · JavaScript · Kotlin · HTML · CSS · Arduino · ESP32
 
+<p align="center">
+  <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="80">
+  <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="80">
+  <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="80">
+  <img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="80">
+</p>
+
 ##  Links
 
 -  [Personal Website](https://deep.qify.site/)
