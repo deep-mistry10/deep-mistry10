@@ -244,7 +244,7 @@ Deployment
 
 <div align="center">
 
-<img src="[https://capsule-render.vercel.app](https://raw.githubusercontent.com/arpit0891/arpit0891/main/assets/bottom_header.svg)/api?type=waving&color=0:1c1c1c,50:111111,100:050505&height=120&section=footer" width="100%">
+<img src="https://raw.githubusercontent.com/arpit0891/arpit0891/main/assets/bottom_header.svg/api?type=waving&color=0:1c1c1c,50:111111,100:050505&height=120&section=footer" width="100%">
 
 **DEEP MISTRY**
 
