@@ -1,167 +1,379 @@
-# Deep Mistry
+<div align="center">
 
-### Founder of QIFY · Developer · Builder
+# DEEP MISTRY
 
-I build software, web applications, developer tools, and embedded systems.
+### Founder of QIFY · Software Developer · Builder
 
-My work focuses on turning ideas into practical, reliable, and usable products — from browser-based applications and Python tools to ESP32-based embedded systems.
+<p>
+  <a href="https://qify.site">QIFY</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://deep.qify.site">Portfolio</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/deep-mistry10">GitHub</a>
+</p>
 
-[QIFY](https://qify.site) · [Portfolio](https://deep.qify.site) · [GitHub](https://github.com/deep-mistry10)
+<br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111111,100:1c1c1c&height=180&section=header&text=BUILDING%20USEFUL%20SOFTWARE&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20%7C%20Web%20%7C%20Developer%20Tools%20%7C%20Embedded%20Systems&descAlignY=60&descSize=14" width="100%">
 
-## About
+</div>
 
-I'm an independent developer and the founder of **QIFY**.
+<br>
 
-I work across software and hardware, with a particular interest in building products from the ground up. I enjoy working on the entire development process — from the initial idea and architecture to implementation, interface design, testing, packaging, and deployment.
+## PROFILE
 
-My current areas of interest include:
+```text
+DEEP MISTRY
+Founder of QIFY
+Independent Developer
 
-* Software development
-* Web applications
-* Developer tools
-* Python applications
-* Embedded systems
-* ESP32 development
-* Automation
-* UI and UX
+I build software, developer tools, web applications
+and embedded systems from idea to deployment.
+```
+
+I am an independent developer and the founder of **QIFY**.
+
+My work sits across software, web development, developer tooling and embedded systems. I enjoy taking an idea, designing the system around it, building the implementation, and turning it into something people can actually use.
 
 ---
 
 ## QIFY
 
-**QIFY** is my independent technology project focused on building practical software and digital tools.
+<div align="center">
 
-The goal is simple:
+### QIFY
 
-> Build useful software that solves real problems.
+**An independent technology brand building practical digital products.**
 
-Projects under QIFY range from web applications and PDF utilities to developer tools, desktop applications, and embedded projects.
+<br>
 
-[Visit qify.site](https://qify.site)
+<a href="https://qify.site">
+<img src="https://img.shields.io/badge/EXPLORE_QIFY-FFFFFF?style=for-the-badge&logoColor=000000&labelColor=111111&color=FFFFFF">
+</a>
 
----
+</div>
 
-## Selected Projects
+<br>
 
-### QIFY Downloader
+QIFY is where I publish and develop my software projects, web applications, developer utilities and experiments.
 
-A Windows desktop downloader built with Python.
-
-**Technology:** Python · CustomTkinter · yt-dlp · FFmpeg · PyInstaller
-
-Designed as a complete desktop application with media processing, downloading, packaging, and distribution in mind.
-
----
-
-### QIFY Fetch
-
-A cross-platform developer-oriented system information CLI inspired by Neofetch and Fastfetch.
-
-**Technology:** Python · Rich · psutil
-
-Provides a structured overview of system hardware, software, development environments, and network information through a modern terminal interface.
-
----
-
-### QIFY PDF
-
-A collection of browser-based PDF utilities designed to handle common PDF workflows directly in the browser.
-
-**Technology:** HTML · CSS · JavaScript · PDF.js · pdf-lib · jsPDF
-
-The applications are designed with a frontend-first architecture and focus on simplicity, privacy, and usability.
-
----
-
-## Technology
-
-### Languages
-
-`Python` `C++` `JavaScript` `HTML` `CSS`
-
-### Development
-
-`Git` `GitHub` `VS Code` `PlatformIO` `PyPI`
-
-### Frameworks & Libraries
-
-`CustomTkinter` `Rich` `yt-dlp` `FFmpeg` `PDF.js` `pdf-lib` `jsPDF`
-
-### Hardware
-
-`ESP32` `Arduino` `I²C` `OLED` `Sensors` `Servos`
-
----
-
-## Engineering Interests
-
-I enjoy working on projects where software and hardware meet.
+The philosophy is straightforward:
 
 ```text
-Software
-    ├── Applications
-    ├── Developer Tools
-    ├── Web Platforms
-    └── Automation
-
-Embedded
-    ├── ESP32
-    ├── Sensors
-    ├── Displays
-    ├── Motors
-    └── IoT
-
-Product
-    ├── Architecture
-    ├── UI / UX
-    ├── Performance
-    └── Deployment
+IDEA
+ ↓
+DESIGN
+ ↓
+BUILD
+ ↓
+TEST
+ ↓
+SHIP
+ ↓
+IMPROVE
 ```
 
 ---
 
-## Development Principles
+# SELECTED WORK
 
-I generally approach projects around a few principles:
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Build first.**
-Turn an idea into a working implementation as quickly as possible.
+### QIFY Downloader
 
-**Keep it practical.**
-Prefer solutions that are useful, maintainable, and easy to understand.
+A Windows desktop downloader built as a complete Python application.
 
-**Design matters.**
-Good software should not only work well, but also provide a clear and intuitive experience.
+**Stack**
 
-**Keep improving.**
-Projects evolve through testing, feedback, and iteration.
+`Python` `CustomTkinter` `yt-dlp` `FFmpeg` `PyInstaller`
+
+Designed around a proper desktop application architecture rather than a simple command-line wrapper.
+
+<br>
+
+<a href="https://github.com/deep-mistry10/QIFY-Downloader">VIEW PROJECT →</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### QIFY Fetch
+
+A developer-focused system information CLI inspired by Neofetch and Fastfetch.
+
+**Stack**
+
+`Python` `Rich` `psutil`
+
+Displays system, hardware, developer environment and network information through a structured terminal interface.
+
+<br>
+
+<a href="https://github.com/deep-mistry10">VIEW PROJECTS →</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### QIFY PDF
+
+Browser-based tools for working with PDF documents.
+
+**Stack**
+
+`JavaScript` `PDF.js` `pdf-lib` `jsPDF`
+
+Frontend-first applications designed around privacy, simplicity and direct browser processing.
+
+<br>
+
+<a href="https://qify.site">EXPLORE →</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### Embedded Systems
+
+Hardware projects built around microcontrollers and connected components.
+
+**Stack**
+
+`ESP32` `C++` `PlatformIO` `I²C` `OLED` `Sensors`
+
+Combining firmware, electronics and web interfaces into complete embedded systems.
+
+<br>
+
+<a href="https://github.com/deep-mistry10">VIEW GITHUB →</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## GitHub
+# TECHNOLOGY
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deep-mistry10&show_icons=true&hide_border=true&theme=transparent" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deep-mistry10&layout=compact&hide_border=true&theme=transparent" height="165">
-</p>
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
+
+<br><br>
+
+### Development
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,arduino,linux" />
+
+<br><br>
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=pycharm,cloudflare,netlify,vercel" />
+
+</div>
 
 ---
 
-## Connect
+# WHAT I BUILD
 
-**Website**
-https://qify.site
+<table>
+<tr>
+<td align="center" width="25%">
 
-**Portfolio**
-https://deep.qify.site
+### SOFTWARE
 
-**GitHub**
-https://github.com/deep-mistry10
+Desktop applications
+CLI tools
+Python packages
+Automation
+
+</td>
+
+<td align="center" width="25%">
+
+### WEB
+
+Web applications
+Developer utilities
+PDF tools
+Interactive interfaces
+
+</td>
+
+<td align="center" width="25%">
+
+### EMBEDDED
+
+ESP32
+Sensors
+Displays
+IoT systems
+
+</td>
+
+<td align="center" width="25%">
+
+### PRODUCT
+
+Architecture
+UI / UX
+Performance
+Deployment
+
+</td>
+</tr>
+</table>
 
 ---
 
-<p align="center">
-  <sub>Built by Deep Mistry</sub>
-</p>
+# DEVELOPMENT
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=deep-mistry10&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&icon_color=ffffff&include_all_commits=true" height="175">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deep-mistry10&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888" height="175">
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=deep-mistry10&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=666666&currStreakNum=ffffff&sideNums=ffffff" width="65%">
+
+</div>
+
+---
+
+# CURRENTLY BUILDING
+
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│  QIFY                                                        │
+│  ─────────────────────────────────────────────────────────  │
+│                                                             │
+│  Software                 ████████████████████               │
+│  Web Applications         ██████████████████░░               │
+│  Developer Tools          █████████████████░░░               │
+│  Embedded Systems         ████████████████░░░░               │
+│  Automation               ███████████████░░░░░               │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+I am continuously experimenting with new ideas across software and hardware, with an emphasis on building complete products rather than isolated demonstrations.
+
+---
+
+# ENGINEERING PRINCIPLES
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 01 — BUILD
+
+Ideas become valuable when they become working software.
+
+I prefer building an initial implementation quickly and improving it through real usage.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 02 — SIMPLIFY
+
+Complexity should have a reason.
+
+I aim for architectures and interfaces that remain understandable as projects grow.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 03 — DESIGN
+
+Engineering and design should work together.
+
+A product should be technically solid and intuitive to use.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 04 — SHIP
+
+A finished product is more valuable than an unfinished idea.
+
+Build it. Test it. Release it. Iterate.
+
+</td>
+</tr>
+</table>
+
+---
+
+# SYSTEM
+
+```text
+deep@qify:~$ whoami
+
+Deep Mistry
+Founder of QIFY
+Independent Developer
+
+deep@qify:~$ focus
+
+Software
+Web Applications
+Developer Tools
+Embedded Systems
+Product Development
+
+deep@qify:~$ status
+
+BUILDING
+```
+
+---
+
+# CONNECT
+
+<div align="center">
+
+<a href="https://qify.site">
+<img src="https://img.shields.io/badge/QIFY-111111?style=for-the-badge&logoColor=white">
+</a>
+
+<a href="https://deep.qify.site">
+<img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge">
+</a>
+
+<a href="https://github.com/deep-mistry10">
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c1c1c,50:111111,100:050505&height=120&section=footer" width="100%">
+
+**DEEP MISTRY**
+
+`Founder of QIFY · Developer · Builder`
+
+</div>
