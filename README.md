@@ -222,18 +222,6 @@ Deployment
 
 ---
 
-# GITHUB
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=deep-mistry10&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888&icon_color=ffffff&include_all_commits=true" height="175">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deep-mistry10&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888" height="175">
-
-</div>
-
----
-
 # CONNECT
 
 <div align="center">
