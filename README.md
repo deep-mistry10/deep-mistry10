@@ -4,29 +4,19 @@
 
 ### Founder of QIFY · Developer · Builder · Creator
 
-<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="55">
-<img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="55">
-<img src="https://cultofthepartyparrot.com/parrots/hd/shipitparrot.gif" width="55">
-<img src="https://cultofthepartyparrot.com/parrots/hd/deployparrot.gif" width="55">
-<img src="https://cultofthepartyparrot.com/parrots/hd/partyparrot.gif" width="55">
+I build software, web applications, developer tools,
+and embedded systems.
 
-<br><br>
+<br>
 
-I build software, break things, fix them, and occasionally ship them.
-
-<br><br>
-
-<a href="https://deep.qify.site/">
+<a href="https://deep.qify.site">
   <img src="https://img.shields.io/badge/Website-deep.qify.site-111111?style=for-the-badge" alt="Website">
 </a>
-<a href="https://qify.site/">
+<a href="https://qify.site">
   <img src="https://img.shields.io/badge/QIFY-qify.site-111111?style=for-the-badge" alt="QIFY">
 </a>
-<a href="https://github.com/deep-mistry10">
-  <img src="https://img.shields.io/badge/GitHub-deep--mistry10-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
 <a href="https://www.linkedin.com/in/deep-mistry-founder-of-qify/">
-  <img src="https://img.shields.io/badge/LinkedIn-Deep%20Mistry-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <img src="https://img.shields.io/badge/LinkedIn-Deep_Mistry-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 </div>
@@ -37,61 +27,66 @@ I build software, break things, fix them, and occasionally ship them.
 
 I'm **Deep Mistry**, the **founder and creator of QIFY**.
 
-I'm an independent developer and builder interested in turning ideas
-into real software, web applications, developer tools, desktop
-applications, embedded systems, and experimental projects.
+I am an independent developer and builder focused on creating
+practical software, web applications, developer tools,
+desktop applications, and embedded systems.
 
-I enjoy working across different layers of technology rather than
-staying inside one ecosystem.
+I enjoy working across different areas of technology and turning
+ideas into reliable, usable products.
 
-Sometimes that means writing a Python application.
-
-Sometimes it means building a website.
-
-Sometimes it means making an ESP32 do something it probably wasn't
-supposed to do.
-
-And sometimes it means spending three hours debugging a problem
-caused by one missing character.
+My work combines software development with experimentation in
+electronics, embedded systems, automation, and modern web
+technologies.
 
 ---
 
 ## QIFY
 
-**QIFY** is an independent software project founded and created by
-**Deep Mistry**.
+**QIFY** is an independent software project founded and created
+by **Deep Mistry**.
 
-The goal is simple:
+The goal of QIFY is to build simple, fast, and useful software
+tools and applications that solve practical problems.
 
-> Build useful software and web tools that are fast, accessible,
-> practical, and enjoyable to use.
+### What QIFY focuses on
 
-QIFY focuses on browser-based tools, productivity utilities,
-QR-related applications, PDF tools, and other projects built to
-solve practical problems.
+- Web-based tools
+- QR and payment utilities
+- PDF tools
+- Productivity applications
+- Developer utilities
+- Experimental software projects
 
 **Founder:** Deep Mistry
 
-**QIFY:** https://qify.site/
-
+**QIFY:** https://qify.site/  
 **Founder Profile:** https://deep.qify.site/
 
 ---
 
 ## What I Build
 
+| Area | Focus |
+| --- | --- |
+| Web Development | Modern, responsive web applications |
+| Software Development | Desktop applications and utilities |
+| Developer Tools | Tools designed to simplify development workflows |
+| Embedded Systems | ESP32, Arduino and connected hardware |
+| Electronics | Hardware experiments and practical projects |
+| Automation | Software and hardware automation |
+| PDF Tools | Browser-based document utilities |
+| Mobile Development | Android applications and utilities |
+
+---
+
+## Technology
+
+### Languages
+
 ```text
-Web Applications
-Developer Tools
-Desktop Applications
-Python Applications
-Mobile Applications
-Embedded Systems
-ESP32 Projects
-Arduino Projects
-Electronics
-Robotics
-PDF Tools
-Productivity Tools
-Automation
-Experimental Projects
+Python
+C++
+JavaScript
+Kotlin
+HTML
+CSS
