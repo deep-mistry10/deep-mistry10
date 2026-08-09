@@ -4,21 +4,9 @@
 
 ### Founder of QIFY · Software Developer · Builder
 
-<p>
-  <a href="https://qify.site">QIFY</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://deep.qify.site">Portfolio</a>
-  &nbsp;&nbsp;·&nbsp;&nbsp;
-  <a href="https://github.com/deep-mistry10">GitHub</a>
-</p>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111111,100:1c1c1c&height=180&section=header&text=BUILDING%20USEFUL%20SOFTWARE&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20%7C%20Web%20%7C%20Developer%20Tools&descAlignY=60&descSize=14" width="100%">
-
 </div>
 
-<br>
+---
 
 ## PROFILE
 
@@ -39,21 +27,9 @@ My work focuses on building practical software products, web applications, devel
 
 ## QIFY
 
-<div align="center">
-
 ### QIFY
 
 **An independent technology brand building practical digital products.**
-
-<br>
-
-<a href="https://qify.site">
-<img src="https://img.shields.io/badge/EXPLORE_QIFY-FFFFFF?style=for-the-badge&logoColor=000000&labelColor=111111&color=FFFFFF">
-</a>
-
-</div>
-
-<br>
 
 QIFY is where I develop and publish my software projects and digital tools.
 
@@ -79,7 +55,6 @@ IMPROVE
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
 ### QIFY Downloader
@@ -92,9 +67,7 @@ A Windows desktop downloader built as a complete Python application.
 
 A full desktop application focused on downloading and processing online media.
 
-<br>
-
-<a href="https://github.com/deep-mistry10/QIFY-Downloader">VIEW PROJECT →</a>
+**[VIEW PROJECT →](https://github.com/deep-mistry10/QIFY-Downloader)**
 
 </td>
 
@@ -110,16 +83,12 @@ Browser-based utilities for working with PDF documents.
 
 Frontend-first applications designed around privacy, simplicity, and direct browser processing.
 
-<br>
-
-<a href="https://qify.site">EXPLORE →</a>
+**[EXPLORE →](https://qify.site)**
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
 ### QIFY Tools
@@ -132,9 +101,7 @@ A growing collection of practical browser-based utilities designed to solve smal
 
 Lightweight tools that work directly in the browser without unnecessary complexity.
 
-<br>
-
-<a href="https://qify.site">EXPLORE QIFY →</a>
+**[EXPLORE QIFY →](https://qify.site)**
 
 </td>
 
@@ -150,12 +117,9 @@ More software projects, experiments, and developer tools are continuously being 
 
 Explore the complete collection on GitHub.
 
-<br>
-
-<a href="https://github.com/deep-mistry10">VIEW GITHUB →</a>
+**[VIEW GITHUB →](https://github.com/deep-mistry10)**
 
 </td>
-
 </tr>
 </table>
 
@@ -163,19 +127,13 @@ Explore the complete collection on GitHub.
 
 # TECHNOLOGY
 
-<div align="center">
-
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,html,css" />
-
-<br><br>
+`Python` `C++` `JavaScript` `HTML` `CSS`
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,arduino" />
-
-</div>
+`VS Code` `Git` `GitHub` `PlatformIO` `PyPI`
 
 ---
 
@@ -183,40 +141,47 @@ Explore the complete collection on GitHub.
 
 <table>
 <tr>
-
-<td align="center" width="33%">
+<td width="33%" valign="top">
 
 ### SOFTWARE
 
 Desktop applications
+
 CLI tools
+
 Python packages
+
 Automation
 
 </td>
 
-<td align="center" width="33%">
+<td width="33%" valign="top">
 
 ### WEB
 
 Web applications
+
 Developer utilities
+
 PDF tools
+
 Interactive interfaces
 
 </td>
 
-<td align="center" width="33%">
+<td width="33%" valign="top">
 
 ### PRODUCT
 
 Architecture
+
 UI / UX
+
 Performance
+
 Deployment
 
 </td>
-
 </tr>
 </table>
 
@@ -240,14 +205,20 @@ Deployment
 
 </div>
 
-<br><br>
+<br>
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/arpit0891/arpit0891/main/assets/bottom_header.svg/api?type=waving&color=0:1c1c1c,50:111111,100:050505&height=120&section=footer" width="100%">
 
 **DEEP MISTRY**
 
 Founder of QIFY · Developer · Builder
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/arpit0891/arpit0891/main/assets/bottom_header.svg" width="100%">
 
 </div>
