@@ -1,71 +1,167 @@
-<div align="center">
-
 # Deep Mistry
 
-### Founder of QIFY · Developer · Builder · Creator
+### Founder of QIFY · Developer · Builder
 
-<img src="https://cultofthepartyparrot.com/parrots/hd/parrot.gif" width="45">
-<img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="45">
-<img src="https://cultofthepartyparrot.com/parrots/hd/shipitparrot.gif" width="45">
-<img src="https://cultofthepartyparrot.com/parrots/hd/deployparrot.gif" width="45">
-<img src="https://cultofthepartyparrot.com/parrots/hd/partyparrot.gif" width="45">
+I build software, web applications, developer tools, and embedded systems.
 
-<br>
+My work focuses on turning ideas into practical, reliable, and usable products — from browser-based applications and Python tools to ESP32-based embedded systems.
 
-**Building software, experimenting with hardware, and turning ideas into products.**
-
-<br>
-
-<a href="https://deep.qify.site">
-  <img src="https://img.shields.io/badge/Portfolio-deep.qify.site-111111?style=flat-square" alt="Portfolio">
-</a>
-<a href="https://qify.site">
-  <img src="https://img.shields.io/badge/QIFY-qify.site-111111?style=flat-square" alt="QIFY">
-</a>
-<a href="https://github.com/deep-mistry10">
-  <img src="https://img.shields.io/badge/GitHub-deep--mistry10-111111?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-</a>
-<a href="https://www.linkedin.com/in/deep-mistry-founder-of-qify/">
-  <img src="https://img.shields.io/badge/LinkedIn-Deep%20Mistry-111111?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-</div>
+[QIFY](https://qify.site) · [Portfolio](https://deep.qify.site) · [GitHub](https://github.com/deep-mistry10)
 
 ---
 
 ## About
 
-I'm **Deep Mistry**, the **founder and creator of QIFY**.
+I'm an independent developer and the founder of **QIFY**.
 
-I'm an independent developer and builder focused on turning
-ideas into practical software, web applications, developer tools,
-desktop applications, and embedded systems.
+I work across software and hardware, with a particular interest in building products from the ground up. I enjoy working on the entire development process — from the initial idea and architecture to implementation, interface design, testing, packaging, and deployment.
 
-I enjoy working across software and hardware — from writing
-applications and web platforms to building projects around
-ESP32, Arduino, electronics, and automation.
+My current areas of interest include:
 
-My approach is simple:
-
-> Build it. Understand it. Improve it. Ship it.
+* Software development
+* Web applications
+* Developer tools
+* Python applications
+* Embedded systems
+* ESP32 development
+* Automation
+* UI and UX
 
 ---
 
 ## QIFY
 
-### Building QIFY from an idea into a real platform.
+**QIFY** is my independent technology project focused on building practical software and digital tools.
 
-**QIFY** is an independent software project founded and created
-by **Deep Mistry**.
+The goal is simple:
 
-The project focuses on creating simple, fast, and useful software
-tools and applications for everyday problems.
+> Build useful software that solves real problems.
+
+Projects under QIFY range from web applications and PDF utilities to developer tools, desktop applications, and embedded projects.
+
+[Visit qify.site](https://qify.site)
+
+---
+
+## Selected Projects
+
+### QIFY Downloader
+
+A Windows desktop downloader built with Python.
+
+**Technology:** Python · CustomTkinter · yt-dlp · FFmpeg · PyInstaller
+
+Designed as a complete desktop application with media processing, downloading, packaging, and distribution in mind.
+
+---
+
+### QIFY Fetch
+
+A cross-platform developer-oriented system information CLI inspired by Neofetch and Fastfetch.
+
+**Technology:** Python · Rich · psutil
+
+Provides a structured overview of system hardware, software, development environments, and network information through a modern terminal interface.
+
+---
+
+### QIFY PDF
+
+A collection of browser-based PDF utilities designed to handle common PDF workflows directly in the browser.
+
+**Technology:** HTML · CSS · JavaScript · PDF.js · pdf-lib · jsPDF
+
+The applications are designed with a frontend-first architecture and focus on simplicity, privacy, and usability.
+
+---
+
+## Technology
+
+### Languages
+
+`Python` `C++` `JavaScript` `HTML` `CSS`
+
+### Development
+
+`Git` `GitHub` `VS Code` `PlatformIO` `PyPI`
+
+### Frameworks & Libraries
+
+`CustomTkinter` `Rich` `yt-dlp` `FFmpeg` `PDF.js` `pdf-lib` `jsPDF`
+
+### Hardware
+
+`ESP32` `Arduino` `I²C` `OLED` `Sensors` `Servos`
+
+---
+
+## Engineering Interests
+
+I enjoy working on projects where software and hardware meet.
 
 ```text
-QIFY
- ├── Web Tools
- ├── QR Utilities
- ├── PDF Tools
- ├── Productivity
- ├── Developer Tools
- └── Experimental Projects
+Software
+    ├── Applications
+    ├── Developer Tools
+    ├── Web Platforms
+    └── Automation
+
+Embedded
+    ├── ESP32
+    ├── Sensors
+    ├── Displays
+    ├── Motors
+    └── IoT
+
+Product
+    ├── Architecture
+    ├── UI / UX
+    ├── Performance
+    └── Deployment
+```
+
+---
+
+## Development Principles
+
+I generally approach projects around a few principles:
+
+**Build first.**
+Turn an idea into a working implementation as quickly as possible.
+
+**Keep it practical.**
+Prefer solutions that are useful, maintainable, and easy to understand.
+
+**Design matters.**
+Good software should not only work well, but also provide a clear and intuitive experience.
+
+**Keep improving.**
+Projects evolve through testing, feedback, and iteration.
+
+---
+
+## GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deep-mistry10&show_icons=true&hide_border=true&theme=transparent" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deep-mistry10&layout=compact&hide_border=true&theme=transparent" height="165">
+</p>
+
+---
+
+## Connect
+
+**Website**
+https://qify.site
+
+**Portfolio**
+https://deep.qify.site
+
+**GitHub**
+https://github.com/deep-mistry10
+
+---
+
+<p align="center">
+  <sub>Built by Deep Mistry</sub>
+</p>
