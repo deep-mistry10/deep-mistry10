@@ -14,7 +14,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111111,100:1c1c1c&height=180&section=header&text=BUILDING%20USEFUL%20SOFTWARE&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20%7C%20Web%20%7C%20Developer%20Tools%20%7C%20Embedded%20Systems&descAlignY=60&descSize=14" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:111111,100:1c1c1c&height=180&section=header&text=BUILDING%20USEFUL%20SOFTWARE&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20%7C%20Web%20%7C%20Developer%20Tools&descAlignY=60&descSize=14" width="100%">
 
 </div>
 
@@ -27,13 +27,13 @@ DEEP MISTRY
 Founder of QIFY
 Independent Developer
 
-I build software, developer tools, web applications
-and embedded systems from idea to deployment.
+I build software, web applications and developer tools
+from idea to deployment.
 ```
 
 I am an independent developer and the founder of **QIFY**.
 
-My work sits across software, web development, developer tooling and embedded systems. I enjoy taking an idea, designing the system around it, building the implementation, and turning it into something people can actually use.
+My work focuses on building practical software products, web applications, developer utilities, and tools designed around simplicity, usability, and real-world problems.
 
 ---
 
@@ -55,21 +55,21 @@ My work sits across software, web development, developer tooling and embedded sy
 
 <br>
 
-QIFY is where I publish and develop my software projects, web applications, developer utilities and experiments.
+QIFY is where I develop and publish my software projects and digital tools.
 
-The philosophy is straightforward:
+The focus is on creating products that are simple to use, useful in everyday workflows, and built with modern technologies.
 
 ```text
 IDEA
- ↓
+  ↓
 DESIGN
- ↓
+  ↓
 BUILD
- ↓
+  ↓
 TEST
- ↓
+  ↓
 SHIP
- ↓
+  ↓
 IMPROVE
 ```
 
@@ -79,6 +79,7 @@ IMPROVE
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### QIFY Downloader
@@ -89,7 +90,7 @@ A Windows desktop downloader built as a complete Python application.
 
 `Python` `CustomTkinter` `yt-dlp` `FFmpeg` `PyInstaller`
 
-Designed around a proper desktop application architecture rather than a simple command-line wrapper.
+A full desktop application focused on downloading and processing online media.
 
 <br>
 
@@ -99,35 +100,15 @@ Designed around a proper desktop application architecture rather than a simple c
 
 <td width="50%" valign="top">
 
-### QIFY Fetch
-
-A developer-focused system information CLI inspired by Neofetch and Fastfetch.
-
-**Stack**
-
-`Python` `Rich` `psutil`
-
-Displays system, hardware, developer environment and network information through a structured terminal interface.
-
-<br>
-
-<a href="https://github.com/deep-mistry10">VIEW PROJECTS →</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
 ### QIFY PDF
 
-Browser-based tools for working with PDF documents.
+Browser-based utilities for working with PDF documents.
 
 **Stack**
 
 `JavaScript` `PDF.js` `pdf-lib` `jsPDF`
 
-Frontend-first applications designed around privacy, simplicity and direct browser processing.
+Frontend-first applications designed around privacy, simplicity, and direct browser processing.
 
 <br>
 
@@ -135,23 +116,46 @@ Frontend-first applications designed around privacy, simplicity and direct brows
 
 </td>
 
+</tr>
+
+<tr>
+
 <td width="50%" valign="top">
 
-### Embedded Systems
+### QIFY Tools
 
-Hardware projects built around microcontrollers and connected components.
+A growing collection of practical browser-based utilities designed to solve small but useful problems.
 
-**Stack**
+**Focus**
 
-`ESP32` `C++` `PlatformIO` `I²C` `OLED` `Sensors`
+`Web Apps` `Utilities` `Automation` `UX`
 
-Combining firmware, electronics and web interfaces into complete embedded systems.
+Lightweight tools that work directly in the browser without unnecessary complexity.
+
+<br>
+
+<a href="https://qify.site">EXPLORE QIFY →</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### More Projects
+
+More software projects, experiments, and developer tools are continuously being built and published.
+
+**Areas**
+
+`Software` `Web` `Python` `Developer Tools`
+
+Explore the complete collection on GitHub.
 
 <br>
 
 <a href="https://github.com/deep-mistry10">VIEW GITHUB →</a>
 
 </td>
+
 </tr>
 </table>
 
@@ -167,15 +171,9 @@ Combining firmware, electronics and web interfaces into complete embedded system
 
 <br><br>
 
-### Development
+### Tools
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,arduino,linux" />
-
-<br><br>
-
-### Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=pycharm,cloudflare,netlify,vercel" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github,arduino" />
 
 </div>
 
@@ -185,7 +183,8 @@ Combining firmware, electronics and web interfaces into complete embedded system
 
 <table>
 <tr>
-<td align="center" width="25%">
+
+<td align="center" width="33%">
 
 ### SOFTWARE
 
@@ -196,7 +195,7 @@ Automation
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="33%">
 
 ### WEB
 
@@ -207,18 +206,7 @@ Interactive interfaces
 
 </td>
 
-<td align="center" width="25%">
-
-### EMBEDDED
-
-ESP32
-Sensors
-Displays
-IoT systems
-
-</td>
-
-<td align="center" width="25%">
+<td align="center" width="33%">
 
 ### PRODUCT
 
@@ -228,12 +216,13 @@ Performance
 Deployment
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-# DEVELOPMENT
+# GITHUB
 
 <div align="center">
 
@@ -242,109 +231,6 @@ Deployment
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deep-mistry10&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=888888" height="175">
 
 </div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=deep-mistry10&hide_border=true&background=00000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=666666&currStreakNum=ffffff&sideNums=ffffff" width="65%">
-
-</div>
-
----
-
-# CURRENTLY BUILDING
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│  QIFY                                                        │
-│  ─────────────────────────────────────────────────────────  │
-│                                                             │
-│  Software                 ████████████████████               │
-│  Web Applications         ██████████████████░░               │
-│  Developer Tools          █████████████████░░░               │
-│  Embedded Systems         ████████████████░░░░               │
-│  Automation               ███████████████░░░░░               │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-I am continuously experimenting with new ideas across software and hardware, with an emphasis on building complete products rather than isolated demonstrations.
-
----
-
-# ENGINEERING PRINCIPLES
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 01 — BUILD
-
-Ideas become valuable when they become working software.
-
-I prefer building an initial implementation quickly and improving it through real usage.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 02 — SIMPLIFY
-
-Complexity should have a reason.
-
-I aim for architectures and interfaces that remain understandable as projects grow.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 03 — DESIGN
-
-Engineering and design should work together.
-
-A product should be technically solid and intuitive to use.
-
-</td>
-
-<td width="50%" valign="top">
-
-### 04 — SHIP
-
-A finished product is more valuable than an unfinished idea.
-
-Build it. Test it. Release it. Iterate.
-
-</td>
-</tr>
-</table>
-
----
-
-# SYSTEM
-
-```text
-deep@qify:~$ whoami
-
-Deep Mistry
-Founder of QIFY
-Independent Developer
-
-deep@qify:~$ focus
-
-Software
-Web Applications
-Developer Tools
-Embedded Systems
-Product Development
-
-deep@qify:~$ status
-
-BUILDING
-```
 
 ---
 
@@ -366,7 +252,7 @@ BUILDING
 
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
 
@@ -374,6 +260,6 @@ BUILDING
 
 **DEEP MISTRY**
 
-`Founder of QIFY · Developer · Builder`
+Founder of QIFY · Developer · Builder
 
 </div>
