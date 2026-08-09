@@ -83,7 +83,7 @@ Browser-based utilities for working with PDF documents.
 
 Frontend-first applications designed around privacy, simplicity, and direct browser processing.
 
-**[EXPLORE →](https://qify.site)**
+**[EXPLORE →](https://pdf.qify.site)**
 
 </td>
 </tr>
