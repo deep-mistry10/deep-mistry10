@@ -205,26 +205,6 @@ Deployment
 
 </div>
 
----
-
-# SUPPORT
-
-<div align="center">
-
-If you find my projects useful, you can support my work through Razorpay.
-
-<br><br>
-
-<a href="razorpay.me/@qify">
-<img src="https://img.shields.io/badge/%E2%99%A5%20SUPPORT%20MY%20WORK-RAZORPAY-111111?style=for-the-badge">
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
 **DEEP MISTRY**
 
 Founder of QIFY · Developer · Builder
