@@ -2,6 +2,8 @@
 
 # DEEP MISTRY
 
+![Profile Views](https://komarev.com/ghpvc/?username=deep-mistry10\&style=for-the-badge\&label=PROFILE+VIEWS)
+
 ### Founder of QIFY · Software Developer · Builder
 
 </div>
@@ -204,6 +206,10 @@ Deployment
 </a>
 
 </div>
+
+<br>
+
+<div align="center">
 
 **DEEP MISTRY**
 
